@@ -14,13 +14,13 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Stee1Forest
+      title: DuanYuchen
 
 description: Stylish Jekyll Theme
 author:
   name: DuanYuchen
   email: 1184401036@qq.com
-  github: Stee1Forest
+  github: Yuchen210
   twitter: 
   pinterest: 
   linkedin: 
