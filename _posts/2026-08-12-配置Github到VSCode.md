@@ -3,7 +3,7 @@ layout: post
 title:  "配置VSCode到Github"
 categories: 日常 学习 GitHub VSCode
 tags: [troubleshooting, blog]
-fullview: false
+description: 配置git到vscode，拉取github上的仓库
 ---
 
 换台电脑尝试使用更新, 发现github pages设置有问题, 原来的页面使用master分支, VSCode会提交到新建立的分至main. 在Github **Settings**-> **Pages**

@@ -4,7 +4,6 @@ title: MarkDown基础语法学习
 categories: [general, sample]
 tags: [MarkDown, 学习]
 description: 常用的MarkDown基础语法
-fullview: false
 ---
 
 # 一级标题
