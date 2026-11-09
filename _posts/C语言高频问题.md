@@ -198,7 +198,7 @@ typora-root-url: ../s
   - 指针场景下
 
     ```c
-    typedef int *PINT;
+    typedef int * PINT;
     PINT a,b;   //a、b都是int*指针
     ```
 
